@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <sirket>
+      <personel>
+          <tcno>3480374</tcno>
+          <personelAd>beyza</personelAd>
+          <personelSoyad>atay</personelSoyad>
+          <mevki>yazılımcı</mevki>
+      </personel>
+      <personel>
+          <tcno>44534</tcno>
+          <personelAd>helin</personelAd>
+          <personelSoyad>atay</personelSoyad>
+          <mevki>yönetici</mevki>
+      </personel>
+  </sirket>

@@ -1,0 +1,26 @@
+{
+  "sehir": "istanbul",
+
+  "ogrenciler": [
+    {
+      "ogrNo": 67,
+      "ogrAd": "beyza",
+      "ders": "matematik"
+    },
+    {
+      "ogrNo": 435,
+      "ogrAd": "helin",
+      "arkadası": "bilge"
+    }
+  ],
+  "meyveler": [
+    {
+      "isim": "cilek",
+      "renk": "kırmızı"
+    },
+    {
+      "isim": "kavun",
+      "renk": "sarı"
+    }
+  ]
+}

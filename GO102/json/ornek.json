@@ -1,0 +1,13 @@
+
+{
+  "marka": "audi",
+  "fiyat": 87548,
+  "model": "A3",
+  "paket": ["full","comfort","deluxe"],
+  "özellik": {
+    "klima": true,
+    "jant": 18
+  },
+  "bayisatis": false
+
+}

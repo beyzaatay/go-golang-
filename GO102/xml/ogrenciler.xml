@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Ogrenciler>
+
+    <ogrenci>
+        <ogrNo>500</ogrNo>
+        <ogrAd> beyza</ogrAd>
+        <ogrSoyad>atay</ogrSoyad>
+        <not>90</not>
+    </ogrenci>
+    <ogrenci>
+        <ogrNo>597</ogrNo>
+        <ogrAd> helin</ogrAd>
+        <ogrSoyad>atay</ogrSoyad>
+        <not>78</not>
+    </ogrenci>
+    <ogrenci>
+        <ogrNo>590</ogrNo>
+        <ogrAd> bilge</ogrAd>
+        <ogrSoyad>atay</ogrSoyad>
+        <not>98</not>
+    </ogrenci>
+
+
+</Ogrenciler>
